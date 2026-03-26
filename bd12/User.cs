@@ -43,5 +43,24 @@ namespace bd12
             get => _date;
             set => SetProperty(ref _date, value);
         }
+        private int _roleId;
+        public int RoleId
+        {
+            get => _roleId;
+            set => SetProperty(ref _roleId, value);
+        }
+
+        private Role _role;
+        public Role Role
+        {
+            get => _role;
+            set => SetProperty(ref _role, value);
+        }
+        private UserProfile _profile;
+        public UserProfile Profile
+        {
+            get => _profile;
+            set => SetProperty(ref _profile, value);
+        }
     }
 }

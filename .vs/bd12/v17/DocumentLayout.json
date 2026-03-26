@@ -3,8 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\pages\\userprofileform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\pages\\userprofileform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\pages\\userformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\pages\\userformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\pages\\userformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\pages\\userformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\pages\\roleuserspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\pages\\roleuserspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\pages\\rolelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\pages\\rolelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\pages\\rolelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\pages\\rolelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\service\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\service\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\pages\\userprofileform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\pages\\userprofileform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\pages\\roleuserspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\pages\\roleuserspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Migrations\\20260311162449_AddRolesAndProfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bd12\\Migrations\\20260311162449_AddRolesAndProfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\validations\\validemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,60 +95,24 @@
       "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\validations\\validdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\pages\\userformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\pages\\userformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\validations\\validlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\validations\\validlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\validations\\validpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\validations\\validpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\service\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\service\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\migrations\\20260227170635_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\migrations\\20260227170635_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u043F\u043E\\bd12\\bd12\\migrations\\20260312093345_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E117D9-568B-4E4A-9AD9-5D3D470DA590}|bd12\\bd12.csproj|solutionrelative:bd12\\migrations\\20260312093345_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,104 +122,235 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "RoleList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\RoleList.xaml.cs",
+              "RelativeDocumentMoniker": "bd12\\Pages\\RoleList.xaml.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\RoleList.xaml.cs",
+              "RelativeToolTip": "bd12\\Pages\\RoleList.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:11:37.252Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Service\\UserService.cs",
               "RelativeDocumentMoniker": "bd12\\Service\\UserService.cs",
               "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Service\\UserService.cs",
               "RelativeToolTip": "bd12\\Service\\UserService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwBAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T17:54:13.214Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T17:54:13.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserFormPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\UserFormPage.xaml.cs",
               "RelativeDocumentMoniker": "bd12\\Pages\\UserFormPage.xaml.cs",
               "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\UserFormPage.xaml.cs",
               "RelativeToolTip": "bd12\\Pages\\UserFormPage.xaml.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAowFQAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T17:23:45.571Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T17:23:45.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UserFormPage.xaml",
               "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\UserFormPage.xaml",
               "RelativeDocumentMoniker": "bd12\\Pages\\UserFormPage.xaml",
               "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\UserFormPage.xaml",
               "RelativeToolTip": "bd12\\Pages\\UserFormPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-27T17:09:26.065Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T17:09:26.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ValidPassword.cs",
-              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Validations\\ValidPassword.cs",
-              "RelativeDocumentMoniker": "bd12\\Validations\\ValidPassword.cs",
-              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Validations\\ValidPassword.cs",
-              "RelativeToolTip": "bd12\\Validations\\ValidPassword.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABrAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "UserProfileForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\UserProfileForm.xaml.cs",
+              "RelativeDocumentMoniker": "bd12\\Pages\\UserProfileForm.xaml.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\UserProfileForm.xaml.cs",
+              "RelativeToolTip": "bd12\\Pages\\UserProfileForm.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T08:27:50.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T10:16:39.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ValidDate.cs",
-              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Validations\\ValidDate.cs",
-              "RelativeDocumentMoniker": "bd12\\Validations\\ValidDate.cs",
-              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Validations\\ValidDate.cs",
-              "RelativeToolTip": "bd12\\Validations\\ValidDate.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCEAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T08:20:28.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ValidEmail.cs",
-              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Validations\\ValidEmail.cs",
-              "RelativeDocumentMoniker": "bd12\\Validations\\ValidEmail.cs",
-              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Validations\\ValidEmail.cs",
-              "RelativeToolTip": "bd12\\Validations\\ValidEmail.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAEBlwB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T19:40:50.248Z",
+              "DocumentIndex": 0,
+              "Title": "UserProfileForm.xaml",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\UserProfileForm.xaml",
+              "RelativeDocumentMoniker": "bd12\\Pages\\UserProfileForm.xaml",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\UserProfileForm.xaml",
+              "RelativeToolTip": "bd12\\Pages\\UserProfileForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-12T10:16:18.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "RoleList.xaml",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\RoleList.xaml",
+              "RelativeDocumentMoniker": "bd12\\Pages\\RoleList.xaml",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\RoleList.xaml",
+              "RelativeToolTip": "bd12\\Pages\\RoleList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-12T10:11:17.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleUsersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\RoleUsersPage.xaml.cs",
+              "RelativeDocumentMoniker": "bd12\\Pages\\RoleUsersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\RoleUsersPage.xaml.cs",
+              "RelativeToolTip": "bd12\\Pages\\RoleUsersPage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:48:38.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoleUsersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\RoleUsersPage.xaml",
+              "RelativeDocumentMoniker": "bd12\\Pages\\RoleUsersPage.xaml",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\RoleUsersPage.xaml",
+              "RelativeToolTip": "bd12\\Pages\\RoleUsersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-12T09:48:17.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\UserProfileService.cs",
+              "RelativeDocumentMoniker": "bd12\\UserProfileService.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\UserProfileService.cs",
+              "RelativeToolTip": "bd12\\UserProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:36:25.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\RoleService.cs",
+              "RelativeDocumentMoniker": "bd12\\RoleService.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\RoleService.cs",
+              "RelativeToolTip": "bd12\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:35:34.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20260312093345_new.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Migrations\\20260312093345_new.cs",
+              "RelativeDocumentMoniker": "bd12\\Migrations\\20260312093345_new.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Migrations\\20260312093345_new.cs",
+              "RelativeToolTip": "bd12\\Migrations\\20260312093345_new.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:33:45.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Role.cs",
+              "RelativeDocumentMoniker": "bd12\\Role.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Role.cs",
+              "RelativeToolTip": "bd12\\Role.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:21:11.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "bd12\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "bd12\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:01:19.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\User.cs",
               "RelativeDocumentMoniker": "bd12\\User.cs",
               "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\User.cs",
               "RelativeToolTip": "bd12\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvy4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T17:03:36.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T17:03:36.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\UserProfile.cs",
+              "RelativeDocumentMoniker": "bd12\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\UserProfile.cs",
+              "RelativeToolTip": "bd12\\UserProfile.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:21:43.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260311162449_AddRolesAndProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Migrations\\20260311162449_AddRolesAndProfiles.cs",
+              "RelativeDocumentMoniker": "bd12\\Migrations\\20260311162449_AddRolesAndProfiles.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Migrations\\20260311162449_AddRolesAndProfiles.cs",
+              "RelativeToolTip": "bd12\\Migrations\\20260311162449_AddRolesAndProfiles.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:24:50.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "bd12\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "bd12\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:12:10.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "bd12\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "bd12\\Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T17:08:33.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "ValidLogin.cs",
               "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Validations\\ValidLogin.cs",
               "RelativeDocumentMoniker": "bd12\\Validations\\ValidLogin.cs",
@@ -183,37 +358,11 @@
               "RelativeToolTip": "bd12\\Validations\\ValidLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T18:24:29.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T18:24:29.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\MainPage.xaml",
-              "RelativeDocumentMoniker": "bd12\\Pages\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\MainPage.xaml",
-              "RelativeToolTip": "bd12\\Pages\\MainPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-27T17:08:33.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "bd12\\Pages\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Pages\\MainPage.xaml.cs",
-              "RelativeToolTip": "bd12\\Pages\\MainPage.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwCoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T17:12:10.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "ObservableObject.cs",
               "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\ObservableObject.cs",
               "RelativeDocumentMoniker": "bd12\\ObservableObject.cs",
@@ -221,75 +370,81 @@
               "RelativeToolTip": "bd12\\ObservableObject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T17:41:59.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T17:41:59.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
+              "Title": "ValidEmail.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Validations\\ValidEmail.cs",
+              "RelativeDocumentMoniker": "bd12\\Validations\\ValidEmail.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Validations\\ValidEmail.cs",
+              "RelativeToolTip": "bd12\\Validations\\ValidEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBpwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T19:40:50.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ValidDate.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Validations\\ValidDate.cs",
+              "RelativeDocumentMoniker": "bd12\\Validations\\ValidDate.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Validations\\ValidDate.cs",
+              "RelativeToolTip": "bd12\\Validations\\ValidDate.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T08:20:28.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ValidPassword.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Validations\\ValidPassword.cs",
+              "RelativeDocumentMoniker": "bd12\\Validations\\ValidPassword.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Validations\\ValidPassword.cs",
+              "RelativeToolTip": "bd12\\Validations\\ValidPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T08:27:50.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\MainWindow.xaml",
               "RelativeDocumentMoniker": "bd12\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\MainWindow.xaml",
               "RelativeToolTip": "bd12\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-27T16:58:58.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T16:58:58.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "BaseDbService.cs",
               "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Service\\BaseDbService.cs",
               "RelativeDocumentMoniker": "bd12\\Service\\BaseDbService.cs",
               "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Service\\BaseDbService.cs",
               "RelativeToolTip": "bd12\\Service\\BaseDbService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T17:13:03.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T17:13:03.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\App.xaml",
               "RelativeDocumentMoniker": "bd12\\App.xaml",
               "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\App.xaml",
               "RelativeToolTip": "bd12\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-27T19:14:42.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T19:14:42.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20260227170635_InitialDB.cs",
-              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Migrations\\20260227170635_InitialDB.cs",
-              "RelativeDocumentMoniker": "bd12\\Migrations\\20260227170635_InitialDB.cs",
-              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Migrations\\20260227170635_InitialDB.cs",
-              "RelativeToolTip": "bd12\\Migrations\\20260227170635_InitialDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T17:06:35.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "bd12\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "bd12\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T17:01:19.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\\u0422\u0420\u041F\u041E\\bd12\\bd12\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "bd12\\MainWindow.xaml.cs",
@@ -297,8 +452,7 @@
               "RelativeToolTip": "bd12\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T16:58:56.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T16:58:56.465Z"
             }
           ]
         }

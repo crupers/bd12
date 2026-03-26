@@ -149,3 +149,15 @@ C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\ob
 C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\obj\Debug\net8.0-windows\bd12.pdb
 C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\obj\Debug\net8.0-windows\bd12.genruntimeconfig.cache
 C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\obj\Debug\net8.0-windows\ref\bd12.dll
+C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\obj\Debug\net8.0-windows\bd12.sourcelink.json
+C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\obj\Debug\net8.0-windows\Pages\RoleUsersPage.g.cs
+C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\obj\Debug\net8.0-windows\bd12_Content.g.cs
+C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\obj\Debug\net8.0-windows\Pages\RoleUsersPage.baml
+C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\obj\Debug\net8.0-windows\Pages\RoleList.g.cs
+C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\obj\Debug\net8.0-windows\Pages\RoleList.baml
+C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\obj\Debug\net8.0-windows\Pages\UserProfileForm.g.cs
+C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\obj\Debug\net8.0-windows\Pages\UserProfileForm.baml
+C:\Users\zelen\OneDrive\Рабочий стол\учеба\ТРПО\bd12\bd12\obj\Debug\net8.0-windows\App.baml

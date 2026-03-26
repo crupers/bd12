@@ -13,16 +13,17 @@ namespace bd12.Service
         {
             context = new AppDbContext();
         }
+
         private static BaseDbService? instance;
         public static BaseDbService Instance
         {
             get
             {
-                if(instance == null) instance = new BaseDbService();
+                if (instance == null) instance = new BaseDbService();
                 return instance;
             }
-
         }
+
         private AppDbContext context;
         public AppDbContext Context => context;
     }

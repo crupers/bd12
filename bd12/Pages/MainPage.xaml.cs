@@ -57,5 +57,9 @@ namespace bd12.Pages
             }
 
         }
+        private void go_roles(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Pages.RoleList());
+        }
     }
 }

@@ -4,14 +4,16 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:bd12.Pages"
+      xmlns:r="clr-namespace:bd12"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="UserFormPage"
       xmlns:validations="clr-namespace:bd12.Validations"
       >
-  
+    <Page.Resources>
+        <r:RoleService x:Key="rservice"/>
+    </Page.Resources>
 
-    <!--  Text="{Binding Login,UpdateSourceTrigger=PropertyChanged}"-->
     <Grid>
         <StackPanel>
             <StackPanel>
@@ -66,6 +68,18 @@
                         </Binding>
                     </DatePicker.SelectedDate>
                 </DatePicker>
+            </StackPanel>
+            <StackPanel>
+                <Label>Роль</Label>
+                <ComboBox Name="RoleComboBox" 
+                  DisplayMemberPath="Title" 
+                          SelectedValuePath="Id"
+                  SelectedItem="{Binding _user.Role}"
+                  ItemsSource="{Binding Source={StaticResource rservice}, Path=Roles}">
+                </ComboBox>
+            </StackPanel>
+        <StackPanel>
+                <Button Click="editProfile">Редактировать профиль</Button>
             </StackPanel>
             <StackPanel>
                 <Button Click="save">Сохранить в БД</Button>
